@@ -13,6 +13,7 @@ while (numberRandom.length !== 5) {
         
     }
 
+    
     numberElement.innerHTML = `memorizza questi numeri:${numberRandom}`
 
     setTimeout(() => {
